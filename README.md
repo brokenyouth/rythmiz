@@ -1,2 +1,2 @@
-# sfml-template
- SFML base template - Visual Studio 2019
+# rythmiz
+ 2d game inspired by osu!
